@@ -79,7 +79,7 @@ docker rmi nginx      # 删除镜像
 
 \# 发现无法删除，因为容器运行中，强制删除容器 docker rm -f nginx
 
-![](./../python%E7%AC%94%E8%AE%B0/images/Snipaste_2025-01-13_13-22-04.png)
+![](./images/Snipaste_2025-01-13_13-22-04.png)
 
 ## 镜像
 
